@@ -54,11 +54,6 @@ body{
   height: 100%;
   max-width: 1140px;
 }
-.clearfix::after{
-  content: "";
-  clear: both;
-  display: block;
-}
 
 /* 로고 */
 .logo{
